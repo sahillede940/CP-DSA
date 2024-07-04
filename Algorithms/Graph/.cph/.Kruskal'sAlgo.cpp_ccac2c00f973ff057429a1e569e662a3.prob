@@ -1,0 +1,1 @@
+{"name":"Local: Kruskal'sAlgo","url":"d:\\VSCODE\\Algorithms\\Graph\\Kruskal'sAlgo.cpp","tests":[{"id":1689246533207,"input":"5 6\n1 2 3\n2 3 5\n2 4 2\n3 4 8\n5 1 7\n5 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCODE\\Algorithms\\Graph\\Kruskal'sAlgo.cpp","group":"local","local":true}

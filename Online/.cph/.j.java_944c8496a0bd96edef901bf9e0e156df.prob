@@ -1,0 +1,1 @@
+{"name":"Local: j","url":"d:\\VSCODE\\Online\\j.java","tests":[{"id":1691674481858,"input":"5 13\n5 4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCODE\\Online\\j.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"d:\\VSCODE\\Online\\main.py","tests":[{"id":1687977541472,"input":"0.6\n0.7\n0.8\n0.9\n0.5\n0.4\n0.7\n0.8","output":"0\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCODE\\Online\\main.py","group":"local","local":true}

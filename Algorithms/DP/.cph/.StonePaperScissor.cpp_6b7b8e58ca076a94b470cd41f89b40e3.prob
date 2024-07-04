@@ -1,0 +1,1 @@
+{"name":"Local: StonePaperScissor","url":"d:\\VSCODE\\Algorithms\\DP\\StonePaperScissor.cpp","tests":[{"id":1684699061075,"input":"4\n6 2\nRPSSPR\n6 3\nSRRRRR\n6 0\nRPSRPS\n6 1\nPSSPPS","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCODE\\Algorithms\\DP\\StonePaperScissor.cpp","group":"local","local":true}

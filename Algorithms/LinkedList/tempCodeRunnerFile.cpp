@@ -1,0 +1,10 @@
+    A.push_front(34);
+    A.push_front(23);
+    A.push_front(3453);
+    A.push_front(56);
+    A.push_back(42);
+    A.insert(2, 123);
+    A.print();
+    A.erase(2);
+    A.erase(1);
+    A.print();

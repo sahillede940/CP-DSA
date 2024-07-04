@@ -1,0 +1,1 @@
+{"name":"Local: main3","url":"d:\\VSCODE\\Online\\main3.cpp","tests":[{"id":1687890752985,"input":"5 7\n4145555050\n5515405045\n1025445554\n5214241133\n4055555413","output":"4040000000\n5010400055\n1120440044\n5514241133\n4255555413"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCODE\\Online\\main3.cpp","group":"local","local":true}
